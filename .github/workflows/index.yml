@@ -1,4 +1,4 @@
-name: Integracion Continua
+name: index
 
 on:
   push:
